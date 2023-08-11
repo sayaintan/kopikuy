@@ -40,17 +40,17 @@
     ],
     "nonkopi": [
         {
-            "foto": "https:fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
             "nama": "Es Dawet Duren",
             "size": "200 ml",
             "harga": "10.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Nonkopi 2",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "foto": "images/Strawberry-Milkshake-2.1200px-1-of-1.jpg",
+            "nama": "Strawberry-Milkshake",
+            "size": "150 ml",
+            "harga": "20.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ]
