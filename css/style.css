@@ -532,34 +532,6 @@ footer div.navigasi a {
    padding: 8px;
 }
 
-@media (max-width:600px) {
-   .navigasi{
-      display: none;}
-}
-
-a.shop{
-   margin-right: 15px;
-   margin-left: auto;
-}
-
-header div.kiri,
-header div.kanan {
-   width: 100%;
-   text-align: center;
-   padding: 20%;
-}
-
-div.produk,
-   div.team,
-   div.kontak {
-      width: 50%;
-   }
-
-   div.testimoni {
-      width: 100%;
-      margin-bottom: 30px;
-   }
-
    @media (max-width:600px) {
       .navigasi {
          display: none;
